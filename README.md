@@ -1,3 +1,7 @@
+GITHUB LINK RUBEN DAVID : https://github.com/rubedavi/Vitrum
+
+Aangezien het 2de teamlid het project niet meer zag zitten, heb ik zelf geprobeerd om een database in te laden maar dit is me niet helemaal gelukt. Hierbij wil ik toch mijn versie alleen indienen.
+
 
 # Groepsleden
 Andries Meyers & Ruben David
